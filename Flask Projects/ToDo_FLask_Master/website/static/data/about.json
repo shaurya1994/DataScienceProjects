@@ -1,0 +1,12 @@
+{
+    "firstName": "Marcus",
+    "lastName": "Voyd",
+    "userID": "marccvo",
+    "gender": "Male",
+    "age": 28,
+    "location": {
+        "latitude": 19.228158435038566,
+        "longitude": 72.80594428908675
+    },
+    "aboutProject": "This project was created for learning and practicing Python Flask for creating a responsive website along with bootstrap, Integrating SQL Database, and also accessing local a .json file"
+}

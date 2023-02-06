@@ -1,0 +1,6 @@
+﻿Sub-Category,Sales,Region,Order ID,Ship Mode,Customer ID,Customer Name,Segment,Country/Region,City,State,Product ID,Category,Product Name
+Supplies,6.24,West,US-2018-114888,Second Class,CC-12430,Chuck Clark,Home Office,United States,San Francisco,California,OFF-SU-10001212,Office Supplies,Kleencut Forged Office Shears by Acme United Corporation
+Supplies,7.3,West,CA-2019-130148,Second Class,NK-18490,Neil Knudson,Home Office,United States,San Francisco,California,OFF-SU-10001574,Office Supplies,Acme Value Line Scissors
+Supplies,7.36,West,CA-2016-105249,Same Day,DH-13675,Duane Huffman,Home Office,United States,San Francisco,California,OFF-SU-10001225,Office Supplies,Staple remover
+Supplies,15.52,West,CA-2016-146528,Second Class,VF-21715,Vicky Freymann,Home Office,United States,Los Angeles,California,OFF-SU-10002522,Office Supplies,Acme Kleen Earth Office Shears
+Supplies,49.5,West,CA-2018-118500,First Class,HJ-14875,Heather Jas,Home Office,United States,San Francisco,California,OFF-SU-10004231,Office Supplies,Acme Tagit Stainless Steel Antibacterial Scissors
