@@ -1,0 +1,13 @@
+TASKS 
+Curr-1=714 
+Curr-2=682 -32
+Understand bind
+
+Solve reset issue X
+Solve 0006 taken as 6 issue N : Causes issue in ipdate query
+Show data reset X
+Conn obj X
+Add all fields in update and check if reset is necessary X
+Solve index error in get_cursor() X
+Data in text field is reflected in show window/box. X 
+Conditions to show message if empty box tried to insert/updat X               
